@@ -6,8 +6,8 @@ class Database():
                  host="127.0.0.1",
                  port="3306",
                  database="hospital_portal",
-                 user='root',
-                 password='12344321'):
+                 user='2222',
+                 password='00000'):
 
         self.host = host
         self.port = port
